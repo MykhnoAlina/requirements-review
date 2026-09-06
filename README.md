@@ -1,4 +1,4 @@
-# requirements-review
+# requirements-review-skill
 
 A Claude skill that reviews a single requirement for readiness for test analysis, against 7 fixed quality criteria. Produces a structured, citation-based report instead of free-form commentary.
 
